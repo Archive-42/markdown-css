@@ -26,6 +26,6 @@
 		"stylesheet"
 	],
 	"devDependencies": {
-		"generate-github-markdown-css": "^4.0.0"
+		"markdown-css": "^4.0.0"
 	}
 }
