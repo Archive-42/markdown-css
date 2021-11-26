@@ -26,6 +26,6 @@
 		"stylesheet"
 	],
 	"devDependencies": {
-		"markdown-css": "^0.0.3"
+		"markdown-css": "0.0.3"
 	}
 }
